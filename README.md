@@ -34,7 +34,7 @@ public_html/
 
 ## 🚀 How to Use
 
-1. Copy the script from [`delete_git_files.php`](delete_git_files.php)
+1. Copy the script from [`dot_git_delete.php`](dot_git_delete.php)
 2. Upload it to your hosting account under `public_html/`
 3. Open the file in your browser:
 
